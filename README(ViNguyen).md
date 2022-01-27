@@ -1,4 +1,4 @@
-# TESTING 
+#TESTING 
 ## What I have learnt ? 
 Through the introduction course about github, I was able to learn many fucntions the version control software has 
 to offer users. Like cloning the github files to your pc to run, commiting and pushing your edits of the file and 
